@@ -1,0 +1,80 @@
+# Jaiditya Chauhan - Digital Portfolio
+
+A modern, responsive portfolio website showcasing academic achievements, projects, skills, and professional experience.
+
+## 🚀 Features
+
+- **Modern Design**: Built with React, TypeScript, and Tailwind CSS
+- **Responsive**: Fully responsive design that works on all devices
+- **Interactive**: Smooth animations powered by Framer Motion
+- **Fast**: Optimized build with Vite for lightning-fast performance
+- **Accessible**: Built with accessibility in mind using Radix UI components
+
+## 🛠️ Tech Stack
+
+- **Framework**: React 18 with TypeScript
+- **Build Tool**: Vite
+- **Styling**: Tailwind CSS
+- **UI Components**: shadcn/ui (Radix UI)
+- **Animations**: Framer Motion
+- **Routing**: React Router DOM
+- **Icons**: Lucide React
+
+## 📦 Installation
+
+```bash
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+# Build for production
+npm run build
+
+# Preview production build
+npm run preview
+```
+
+## 🌐 Deployment
+
+This project is configured for deployment on Vercel:
+
+1. Push your code to GitHub
+2. Import the repository in Vercel
+3. Vercel will automatically detect Vite and configure the build settings
+4. Deploy!
+
+The project includes a `vercel.json` configuration file for optimal deployment.
+
+## 📝 Project Structure
+
+```
+portfolio-site/
+├── public/          # Static assets
+├── src/
+│   ├── components/ # React components
+│   ├── data/       # Portfolio data
+│   ├── pages/      # Page components
+│   └── lib/        # Utility functions
+└── dist/           # Build output (generated)
+```
+
+## 🔒 Security Notes
+
+- No API keys or secrets are stored in the codebase
+- All personal information displayed is intentional for portfolio purposes
+- No backend or database connections
+- Static site with no server-side code
+
+## 📄 License
+
+This project is private and personal.
+
+## 👤 Author
+
+**Jaiditya Chauhan**
+- Email: jaidityaofficial@gmail.com
+- GitHub: [@Jaiditya-01](https://github.com/Jaiditya-01)
+- LinkedIn: [Jaiditya Chauhan](https://www.linkedin.com/in/jaiditya-chauhan-a2a58b298)
+
