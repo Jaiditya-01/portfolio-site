@@ -36,17 +36,6 @@ npm run build
 npm run preview
 ```
 
-## 🌐 Deployment
-
-This project is configured for deployment on Vercel:
-
-1. Push your code to GitHub
-2. Import the repository in Vercel
-3. Vercel will automatically detect Vite and configure the build settings
-4. Deploy!
-
-The project includes a `vercel.json` configuration file for optimal deployment.
-
 ## 📝 Project Structure
 
 ```
@@ -60,21 +49,9 @@ portfolio-site/
 └── dist/           # Build output (generated)
 ```
 
-## 🔒 Security Notes
-
-- No API keys or secrets are stored in the codebase
-- All personal information displayed is intentional for portfolio purposes
-- No backend or database connections
-- Static site with no server-side code
-
 ## 📄 License
 
 This project is private and personal.
 
-## 👤 Author
 
-**Jaiditya Chauhan**
-- Email: jaidityaofficial@gmail.com
-- GitHub: [@Jaiditya-01](https://github.com/Jaiditya-01)
-- LinkedIn: [Jaiditya Chauhan](https://www.linkedin.com/in/jaiditya-chauhan-a2a58b298)
 
